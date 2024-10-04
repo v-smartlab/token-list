@@ -1,0 +1,12 @@
+{
+    "name": "MOUDENG",
+    "symbol": "MOUD",
+    "description": "Moudeng Meme On Solana",
+    "image": "https://raw.githubusercontent.com/v-smartlab/token-list/main/assets/mainnet/9AG34izTqXDcHLjG8wN4mdPBSmxZ4YvtTvr4CRxH96Yj/logo.png",
+    "attributes": [
+        {
+            "trait_type": "Item",
+            "value": "Developer Portal"
+        }
+    ]
+}
