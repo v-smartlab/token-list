@@ -1,0 +1,12 @@
+{
+    "name": "VSMART",
+    "symbol": "VSM",
+    "description": "VSMART Tokenization On Solana",
+    "image": "https://raw.githubusercontent.com/v-smartlab/token-list/main/assets/mainnet/B5XSuPVv5cR422guRaAXSdbjL2o4Q6EJTtW9vEYbfXhy/logo.png",
+    "attributes": [
+        {
+            "trait_type": "Item",
+            "value": "Developer Portal"
+        }
+    ]
+}
